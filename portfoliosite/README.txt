@@ -23,10 +23,10 @@ Anaconda environment.  To duplicate the project:
 	3) django-crispy-forms 1.9.1
 	4) django-floppyforms 1.9.0
 3. add appropriate information into the .env file located in the main directory
+**do not host your personal information located in the .env file in production**
 4.  create a superuser
 5.  remember to makemigrations and migrate
-6.  Add appropriate information to .env file located in main directory.  (Be careful with posting your information online and do not host 
-your personal information in the .env file in production)
+
 
 If you are looking to run other HTML templates on Django, checkout the Django template tags I used in the HTML pages.
 I also replaced the original form with a Django form which connects directly to the Django DB.  The form is designed to be added to
