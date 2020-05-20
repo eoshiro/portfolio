@@ -8,6 +8,7 @@ JavaScript
 
 Back-end
 Django 3.0.6
+Python 3.8
 SQLite
 
 
