@@ -1,12 +1,12 @@
 
 #Stack 
 
-Front-end
+***Front-end***
 HTML5 (Used HTML5 up template as base, I included their readme below)
 CSS3
 JavaScript
 
-Back-end
+***Back-end***
 Django 3.0.6
 Python 3.8
 SQLite
